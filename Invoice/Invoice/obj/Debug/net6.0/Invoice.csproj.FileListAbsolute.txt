@@ -1,0 +1,15 @@
+/Users/dmytrolavrov/Projects/LabWork3/Invoice/Invoice/bin/Debug/net6.0/Invoice
+/Users/dmytrolavrov/Projects/LabWork3/Invoice/Invoice/bin/Debug/net6.0/Invoice.deps.json
+/Users/dmytrolavrov/Projects/LabWork3/Invoice/Invoice/bin/Debug/net6.0/Invoice.runtimeconfig.json
+/Users/dmytrolavrov/Projects/LabWork3/Invoice/Invoice/bin/Debug/net6.0/Invoice.dll
+/Users/dmytrolavrov/Projects/LabWork3/Invoice/Invoice/bin/Debug/net6.0/Invoice.pdb
+/Users/dmytrolavrov/Projects/LabWork3/Invoice/Invoice/obj/Debug/net6.0/Invoice.csproj.AssemblyReference.cache
+/Users/dmytrolavrov/Projects/LabWork3/Invoice/Invoice/obj/Debug/net6.0/Invoice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytrolavrov/Projects/LabWork3/Invoice/Invoice/obj/Debug/net6.0/Invoice.AssemblyInfoInputs.cache
+/Users/dmytrolavrov/Projects/LabWork3/Invoice/Invoice/obj/Debug/net6.0/Invoice.AssemblyInfo.cs
+/Users/dmytrolavrov/Projects/LabWork3/Invoice/Invoice/obj/Debug/net6.0/Invoice.csproj.CoreCompileInputs.cache
+/Users/dmytrolavrov/Projects/LabWork3/Invoice/Invoice/obj/Debug/net6.0/Invoice.dll
+/Users/dmytrolavrov/Projects/LabWork3/Invoice/Invoice/obj/Debug/net6.0/refint/Invoice.dll
+/Users/dmytrolavrov/Projects/LabWork3/Invoice/Invoice/obj/Debug/net6.0/Invoice.pdb
+/Users/dmytrolavrov/Projects/LabWork3/Invoice/Invoice/obj/Debug/net6.0/Invoice.genruntimeconfig.cache
+/Users/dmytrolavrov/Projects/LabWork3/Invoice/Invoice/obj/Debug/net6.0/ref/Invoice.dll

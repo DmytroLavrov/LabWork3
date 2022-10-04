@@ -1,0 +1,15 @@
+/Users/dmytrolavrov/Projects/LabWork3/PointAndFigure/PointAndFigure/bin/Debug/net6.0/PointAndFigure
+/Users/dmytrolavrov/Projects/LabWork3/PointAndFigure/PointAndFigure/bin/Debug/net6.0/PointAndFigure.deps.json
+/Users/dmytrolavrov/Projects/LabWork3/PointAndFigure/PointAndFigure/bin/Debug/net6.0/PointAndFigure.runtimeconfig.json
+/Users/dmytrolavrov/Projects/LabWork3/PointAndFigure/PointAndFigure/bin/Debug/net6.0/PointAndFigure.dll
+/Users/dmytrolavrov/Projects/LabWork3/PointAndFigure/PointAndFigure/bin/Debug/net6.0/PointAndFigure.pdb
+/Users/dmytrolavrov/Projects/LabWork3/PointAndFigure/PointAndFigure/obj/Debug/net6.0/PointAndFigure.csproj.AssemblyReference.cache
+/Users/dmytrolavrov/Projects/LabWork3/PointAndFigure/PointAndFigure/obj/Debug/net6.0/PointAndFigure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytrolavrov/Projects/LabWork3/PointAndFigure/PointAndFigure/obj/Debug/net6.0/PointAndFigure.AssemblyInfoInputs.cache
+/Users/dmytrolavrov/Projects/LabWork3/PointAndFigure/PointAndFigure/obj/Debug/net6.0/PointAndFigure.AssemblyInfo.cs
+/Users/dmytrolavrov/Projects/LabWork3/PointAndFigure/PointAndFigure/obj/Debug/net6.0/PointAndFigure.csproj.CoreCompileInputs.cache
+/Users/dmytrolavrov/Projects/LabWork3/PointAndFigure/PointAndFigure/obj/Debug/net6.0/PointAndFigure.dll
+/Users/dmytrolavrov/Projects/LabWork3/PointAndFigure/PointAndFigure/obj/Debug/net6.0/refint/PointAndFigure.dll
+/Users/dmytrolavrov/Projects/LabWork3/PointAndFigure/PointAndFigure/obj/Debug/net6.0/PointAndFigure.pdb
+/Users/dmytrolavrov/Projects/LabWork3/PointAndFigure/PointAndFigure/obj/Debug/net6.0/PointAndFigure.genruntimeconfig.cache
+/Users/dmytrolavrov/Projects/LabWork3/PointAndFigure/PointAndFigure/obj/Debug/net6.0/ref/PointAndFigure.dll
